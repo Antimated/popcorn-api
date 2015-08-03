@@ -179,6 +179,6 @@ Possible options are
 You can change the order of the sort by adding `&order=1` or `&order=-1` to the query string
 
 **Filtering**
-You can filter shows by keyowrds using the following
+You can filter shows by keywords using the following
 
 `shows/1?keywords=` (Again the 1 is used for pagination)
